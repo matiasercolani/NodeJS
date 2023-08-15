@@ -1,0 +1,15 @@
+# Instala dependencia solo para el desarrollo
+- npm install nodemon --save-dev
+# Desinstalar
+- npm uninstall nodemon
+# Instalar
+- npm install colors
+# Instala eligiendo version
+- npm install colors@1.0.0
+
+
+# Actualizar dependencias
+- npm update
+# Para crear package.js //documentacion de la app
+- npm init
+
